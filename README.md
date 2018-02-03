@@ -13,7 +13,7 @@ This project was designed using a custom WordPress theme. It contains multiples 
 	* Git/Github
 	* PHP
 	* Gulp
-  * WAMP
+  	* WAMP
 	
 
 ## Learning Outcomes
